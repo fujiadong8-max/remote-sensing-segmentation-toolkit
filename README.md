@@ -33,8 +33,6 @@ Key capabilities:
 
 ## Input and output
 
-
-
 ![Input image, reference mask, and model prediction](docs/assets/input-label-prediction.png)
 
 | Stage | Expected format | Shape / values |
