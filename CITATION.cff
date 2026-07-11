@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in academic work, please cite it using the metadata below."
+title: "Remote-Sensing Semantic Segmentation Toolkit"
+type: software
+authors:
+  - family-names: "Fu"
+    given-names: "Jiadong"
+    orcid: "https://orcid.org/0009-0004-9454-3811"
+repository-code: "https://github.com/fujiadong8-max/remote-sensing-segmentation-toolkit"
+url: "https://github.com/fujiadong8-max/remote-sensing-segmentation-toolkit"
+license: Apache-2.0
+keywords:
+  - remote sensing
+  - semantic segmentation
+  - geospatial analysis
+  - PyTorch
+  - GeoTIFF

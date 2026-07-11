@@ -191,6 +191,21 @@ Several utility scripts contain example paths in their `__main__` blocks. Replac
 
 The `.gitignore` excludes rasters, arrays, checkpoints, generated outputs, and local datasets. For reproducible releases, publish datasets and weights through an appropriate archival repository and document versioned download links and checksums here. Do not commit large binary assets directly to Git history.
 
+## Citation
+
+If you use this software in academic work, please cite this repository. GitHub provides copy-ready APA and BibTeX entries through the **Cite this repository** menu, generated from [`CITATION.cff`](CITATION.cff).
+
+```bibtex
+@software{fu_2026_remote_sensing_segmentation_toolkit,
+  author  = {Fu, Jiadong},
+  title   = {Remote-Sensing Semantic Segmentation Toolkit},
+  year    = {2026},
+  url     = {https://github.com/fujiadong8-max/remote-sensing-segmentation-toolkit}
+}
+```
+
+The citation request supports academic attribution. The legally binding reuse terms remain those of the Apache License 2.0.
+
 ## License
 
-This project is released under the [Apache License 2.0](LICENSE). You may use, modify, and distribute the software subject to the license terms, including preservation of applicable copyright and attribution notices.
+Copyright 2026 Jiadong Fu. This project is released under the [Apache License 2.0](LICENSE). You may use, modify, and distribute the software subject to the license terms, including preservation of applicable copyright and attribution notices in [`NOTICE`](NOTICE).
