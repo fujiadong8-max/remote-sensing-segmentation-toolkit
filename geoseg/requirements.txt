@@ -1,5 +1,9 @@
 numpy==1.22.0
 rasterio
 torch==1.13.1
-torchvision==0.11.1
+torchvision==0.14.1
 Pillow
+segmentation-models-pytorch
+scikit-image
+pandas
+openpyxl
