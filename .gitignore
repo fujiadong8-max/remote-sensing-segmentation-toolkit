@@ -1,0 +1,59 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local datasets and generated outputs
+/data/
+/test data 2024/
+/示例数据/
+/洱海output/
+**/work_dirs/
+**/outputs/
+**/output/
+**/predictions/
+**/logs/
+
+# Model weights and checkpoints
+/pretrained_models/
+**/pretrained_models/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.weights
+
+# Large geospatial and array data
+*.tif
+*.tiff
+*.img
+*.jp2
+*.vrt
+*.ovr
+*.aux.xml
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Archives and temporary files
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tmp
+*.temp
+

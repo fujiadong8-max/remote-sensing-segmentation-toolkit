@@ -1,0 +1,5 @@
+numpy==1.22.0
+rasterio
+torch==1.13.1
+torchvision==0.11.1
+Pillow
