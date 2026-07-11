@@ -33,7 +33,7 @@ Key capabilities:
 
 ## Input and output
 
-The figure below uses a real sample bundled with the local development dataset. The large source dataset is not distributed in this repository.
+The figure below shows three representative input/label/prediction triplets from the local `test23` prediction set. They were selected to expose different land-cover mixtures and both successful and imperfect boundaries. The large source dataset is not distributed in this repository, and these examples are illustrative rather than a quantitative benchmark.
 
 ![Input image, reference mask, and model prediction](docs/assets/input-label-prediction.png)
 
