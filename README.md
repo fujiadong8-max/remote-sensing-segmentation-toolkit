@@ -193,4 +193,4 @@ The `.gitignore` excludes rasters, arrays, checkpoints, generated outputs, and l
 
 ## License
 
-No open-source license has been selected yet. Until a license is added, the source is publicly viewable but reuse rights are not granted automatically.
+This project is released under the [Apache License 2.0](LICENSE). You may use, modify, and distribute the software subject to the license terms, including preservation of applicable copyright and attribution notices.
